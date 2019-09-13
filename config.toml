@@ -1,0 +1,49 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "terminal"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "blue"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 6
+  # show selector to switch language
+  showLanguageSelector = false
+  # set theme to full screen width
+  fullWidthTheme = false
+  # center theme with default width
+  centerTheme = true
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "The Perry Life"
+    subtitle = "Code and Lessons of Life"
+    keywords = "coding,life,stoicism,programming,microservices"
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read more posts"
+    [languages.en.params.logo]
+      logoText = "The Perry Life"
+      logoHomeLink = "/"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/pages/about"
+      [[languages.en.menu.main]]
+        identifier = "github"
+        name = "Github(ext)"
+        url = "http://www.github.com/napcodes"
+      [[languages.en.menu.main]]
+        name = "Coding"
+        url = "/posts/coding"
+      [[languages.en.menu.main]]
+        name = "Life"
+        url = "/posts/life"
