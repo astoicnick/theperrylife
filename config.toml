@@ -37,7 +37,7 @@ themesDir = "themes"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/posts/life/about.md"
+        url = "/posts/life/about"
       [[languages.en.menu.main]]
         identifier = "github"
         name = "Github(ext)"
