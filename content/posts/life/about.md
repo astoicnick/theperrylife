@@ -1,11 +1,10 @@
 +++
-title = ""
+title = "Who I am"
 date = ""
-author = ""
 cover = ""
-tags = ["", ""]
+tags = ["About", ""]
 keywords = ["", ""]
-description = ""
+description = "Who I am, what I'm doing, and what's in the future"
 showFullContent = false
 +++
 <div id="intro">

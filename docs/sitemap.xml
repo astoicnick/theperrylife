@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://napcodes.github.io/theperrylife/posts/life/about/</loc>
+    <loc>https://napcodes.github.io/theperrylife/tags/about/</loc>
   </url>
   
   <url>
@@ -36,6 +36,10 @@
   
   <url>
     <loc>https://napcodes.github.io/theperrylife/</loc>
+  </url>
+  
+  <url>
+    <loc>https://napcodes.github.io/theperrylife/posts/life/about/</loc>
   </url>
   
 </urlset>
