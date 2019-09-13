@@ -1,8 +1,9 @@
-baseurl = "/"
+baseurl = "https://napcodes.github.io/theperrylife/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 publishDir = "docs"
+themesDir = "themes"
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
