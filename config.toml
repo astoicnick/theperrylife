@@ -32,12 +32,12 @@ themesDir = "themes"
     readOtherPosts = "Read more posts"
     [languages.en.params.logo]
       logoText = "The Perry Life"
-      logoHomeLink = "/"
+      logoHomeLink = "https://napcodes.github.io/theperrylife/"
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/pages/about"
+        url = "/posts/life/about.html"
       [[languages.en.menu.main]]
         identifier = "github"
         name = "Github(ext)"
