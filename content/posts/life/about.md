@@ -9,8 +9,8 @@ description = ""
 showFullContent = false
 +++
 <div id="intro">
-    <img id="propic" src="https://github.com/napcodes/theperrylife/blob/master/docs/pages/Headshots-3.jpg" style="float: left;
-        height: 40%; 
+    <img id="propic" src="https://raw.githubusercontent.com/napcodes/theperrylife/master/docs/pages/Headshots-3.jpg" style="float: left;
+        height: 40%;
         width: 40%;"
         margin-right: 50px; alt="My Face">
     <div id="introText">
