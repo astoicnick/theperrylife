@@ -1,5 +1,5 @@
 +++
-title = "intro to go"
+title = "Intro To Go"
 date = ""
 author = ""
 cover = ""
