@@ -11,7 +11,7 @@ main = [
 ]
 [params]
   Title = "Nick Perry"
-  description = "I'm Nick ufcking perry"
+  description = "Welcome to the club"
   themeColor = "theme-base-0d"
   layoutReverse = "true"
   disqusShortname = "spf13"
